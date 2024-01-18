@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"GoTest/routes"
+	"EchoApp/routes"
 
 	"github.com/labstack/echo/v4"
 )

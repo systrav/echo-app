@@ -1,4 +1,4 @@
-module GoTest
+module EchoApp
 
 go 1.21.6
 

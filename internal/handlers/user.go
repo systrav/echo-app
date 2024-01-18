@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"GoTest/internal/services"
+	"EchoApp/internal/services"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

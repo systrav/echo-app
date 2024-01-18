@@ -1,8 +1,8 @@
 package routes
 
 import (
-	h "GoTest/internal/handlers"
-	s "GoTest/internal/services"
+	h "EchoApp/internal/handlers"
+	s "EchoApp/internal/services"
 	"net/http"
 
 	"github.com/labstack/echo/v4"
